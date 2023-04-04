@@ -1,0 +1,28 @@
+{
+  "sites": [
+    {
+      "id": "joetoep",
+      "name": "Joetoep",
+      "description": "Joetoep is a simple remake of the famous site Youtube. I made it as a fullstack project for school. It is made with basic HTML, CSS, Javascript, PHP, and a Mysql database.",
+      "src": "http://joetoep.ml",
+      "img": "joetoep.png",
+      "used": ["html.png", "css.png", "javascript.png", "php.png", "mysql.png"]
+    },
+    {
+      "id": "eos",
+      "name": "Elan Office Support",
+      "description": "Elan Office Support is a site i have made on my first internship. It is made with wordpress.",
+      "src": "https://www.elanofficesupport.nl",
+      "img": "eos.png",
+      "used": ["wordpress.png"]
+    },
+    {
+      "id": "vimdesk",
+      "name": "Vimdesk",
+      "description": "Vimdesk is a big project i have worked on during my second internship. Vimdesk has its own API. I have worked on both the front-end and API. The front-end was made with VueJS and the API with Laravel.",
+      "src": "https://app.vimdesk.io",
+      "img": "vimdesk.png",
+      "used": ["vuejs.png", "laravel.png"]
+    }
+  ]
+}
