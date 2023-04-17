@@ -8,7 +8,7 @@
         <p>I have experience with HTML, CSS, Javascript, PHP, MySQL. I also have experience with the frameworks VueJS and Laravel.</p>
       </div>
       <div class="w-full">
-        <img src="src/assets/portrait.jpeg" class="rounded-3xl md:w-52 w-28 mt-10 md:mt-0 mx-auto md:ml-auto md:mr-10 border border-button"/>
+        <img src="@/assets/portrait.jpeg" class="rounded-3xl md:w-52 w-28 mt-10 md:mt-0 mx-auto md:ml-auto md:mr-10 border border-button"/>
       </div>
     </div>
   </container>

@@ -1,7 +1,7 @@
 <template>
   <div class="w-full bg-gray-900 fixed top-0 left-0 z-10">
     <button class="ml-4" @click.prevent="showMenu = !showMenu">
-      <img src="src/assets/bars.svg" class="w-20" />
+      <img src="@/assets/bars.svg" class="w-20" />
     </button>
     <div class="w-full bg-gray-900" v-if="showMenu">
       <div v-for="route in routesArr" @click.prevent="navigateTo(route.name)" class="flex items-center p-4 text-xl hover:bg-gray-800 border-b border-button">

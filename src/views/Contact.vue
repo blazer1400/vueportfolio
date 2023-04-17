@@ -11,10 +11,10 @@
       </div>
       <div class="flex items-center justify-center w-48 md:w-max md:justify-between md:m-0 gap-8 m-auto">
         <a class="hover:bg-gray-700/20 rounded-xl" target="_blank" href="https://www.linkedin.com/in/stanbroersma/">
-          <img src="src/assets/logos/linkedin.png" class="w-20"/>
+          <img src="@/assets/logos/linkedin.png" class="w-20"/>
         </a>
         <a class="hover:bg-gray-700/20 rounded-xl" target="_blank" href="https://github.com/blazer1400">
-          <img src="src/assets/logos/github.png" class="w-20" />
+          <img src="@/assets/logos/github.png" class="w-20" />
         </a>
       </div>
     </div>
